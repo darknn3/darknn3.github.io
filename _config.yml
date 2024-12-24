@@ -21,7 +21,7 @@ repository               : "darknn3/darknn3.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "0-0"
   pronouns         : # example: "she/her"  
   bio              : "First year PHd student from TJU"
